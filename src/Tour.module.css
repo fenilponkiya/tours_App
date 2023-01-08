@@ -1,0 +1,62 @@
+img{
+    width: 500px;
+    height:400px;
+    display:block;
+}
+.textData{
+    /* padding-left: 353px; */
+    /* padding-right:350px; */
+    text-align: center;
+    margin-left:300px;
+    padding-top:10px;
+    /* padding-bottom: 5px; */
+}
+.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border:solid black;
+    background-color: bisque;
+    width:1100px;
+}
+.tourprice{
+    margin:20px;
+    border:none;
+    border-radius: 0.2rem;
+    background-color: blueviolet;
+    /* padding:10px; */
+    /* padding-left:10px;
+    padding-right:10px;*/
+    width:100px;
+    margin-right: 50px;
+   
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 250px;
+
+}
+.info{
+ padding-left: 300px; 
+     padding-right:300px; }
+.delete{
+    border:solid red;
+    border-radius: 5px;
+    padding:10px;
+    font-size: 10x;
+    margin-left: 30rem;
+    background-color: white;
+    cursor: pointer;
+    
+    margin-bottom:10px;
+}
+.lessmore{
+    border:none;
+    background-color:bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    cursor:pointer;
+}
